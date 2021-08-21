@@ -1,6 +1,6 @@
 # RPA_Lab_160_IshavVerma
 
-![picture](https://github.com/MIETDevelopers/RPA_Lab_160_IshavVerma/blob/main/UiPath_Logo.png)
+![picture](https://github.com/ishavverma/IshavVerma_Learnings/blob/main/UiPath_Programs/UiPath_Logo.png)
 
 This is a repository created by Ishav for UiPath activities & projects.
 
